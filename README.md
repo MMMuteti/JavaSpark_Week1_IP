@@ -12,7 +12,7 @@ a private key.
 - Github
 
 ## Author
-Moses M. Muteti
+Moses M. Muteti, Mr.
 
 ## Expected MO
 
@@ -32,7 +32,7 @@ Program : The decrypted message is output for the user.<br>
 
 MIT License
 
-Copyright (c) 2023 Moses Muteti
+Copyright (c) 2023 Moses M. Muteti
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
