@@ -36,12 +36,10 @@ public class Main {
             System.out.print("Would you like to continue? (yes or no):");
             String nextStep = scanner.next();
 
-
             if(!nextStep.startsWith("y")) {
                 System.out.print("Thank you and goodbye!");
                 break;
             }
-
         }
     }
 }

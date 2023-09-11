@@ -75,6 +75,5 @@ public class Java_Spark {
 
         }
         return output;
-
     }
 }

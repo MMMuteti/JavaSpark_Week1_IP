@@ -3,9 +3,7 @@ package ke.co.safaricom.services;
 import org.junit.jupiter.api.Test;
 import java.util.Scanner;
 
-
 import static org.junit.jupiter.api.Assertions.*;
-
 
 class Java_Spark {
 
@@ -31,9 +29,6 @@ class Java_Spark {
 
         int newPos2 = ((testmsg.toUpperCase().indexOf('Z')) + shift)%26;
         System.out.println(newPos2);
-
-
-
     }
 
     @Test void addSpace(){
@@ -43,7 +38,6 @@ class Java_Spark {
         String output = msg1 + msg2;
 
         System.out.println(output);
-
     }
 
     @Test
