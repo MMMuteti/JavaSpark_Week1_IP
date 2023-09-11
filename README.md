@@ -1,7 +1,4 @@
-# Caeser Cipher
-
-The Caesar cipher is a simple encryption technique that was used by Julius Caesar to send secret messages to his allies
-and generals. It works by shifting the letters in the plaintext message by a certain number of positions, known as the “shift” or “key”.
+# Java_Spark_Project
 
 This application implements the technique on command prompt to take user input and encrypt  or decrypt the message with 
 a private key.
@@ -15,7 +12,7 @@ a private key.
 - Github
 
 ## Author
-Deus Nyakundi
+Moses M. Muteti
 
 ## Expected MO
 
@@ -30,15 +27,6 @@ User inputs an encrypted message they wish to decrypt
 User input Key: The user must enter the amount of shift the message was encrypted with.<br>
 Message:each character in the message is shifted accordingly<br>
 Program : The decrypted message is output for the user.<br>
-
-## Setup Information
-
-To us the program, follow the steps below.
-
-- git clone https://github.com/deusnyakundi/Caesar-Cipher-Wk01.git
-- Open and extract the cloned folder
-- Run 
-
 
 ## License & Copyright Info
 
